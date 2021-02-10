@@ -2,15 +2,15 @@
 # if.py
 
 number = 70 # you figures 
-guess = int(imput('Введите целое число :')) # your text
+guess = int(imput('Please enter an integer :')) # your text
 
 if guess == number: # check if they are both the same
-    print('Поздравляю, вы угадали.') # your text
-    print('Хотя и не выграли никакого приза!') # your text
+    print('Congratulations, you guessed it.') # your text
+    print('Although they did not win any prize!') # your text
 elif guess < number: # number more
-    print('Нет загаданное число немного больше этого.') # your text
+    print('No hidden number is slightly larger than that.') # your text
     
 else: 
-    print('Нет, загаданное число немного больше этого .') # your text
+    print('No, the hidden number is slightly larger than that.') # your text
   
-print('Завершено') # your text
+print('Completed') # your text
