@@ -9,3 +9,6 @@ while True:
 print('Completion')
 
 # $ python break.py
+'''Enter anything : 24
+Line length:  2
+Enter anything : '''
