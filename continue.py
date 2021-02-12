@@ -9,3 +9,8 @@ while True:
         print('Too few') # your text
         continue 
     print('Enterrd string of sufficient lenght') # your text
+
+# $ python continue.py
+'''Enter anything : 24
+Too few
+Enter anything :'''
